@@ -17,7 +17,7 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2013-11-30 〜 2013-12-01 | [Compte rendu scène Japan Touch 2013](https://youtu.be/lg080AVSeis?t=1m57s) | __, KIHON | Lê, Lynn, Nhật Huy, Sarah, Yuuri |
 2013-12-01 | [JT 2013 - Concert Paris Taiko (1/2)](https://youtu.be/13JCVPqXf-M) | KIHON | Lê, Lynn, Nhật Huy, Sarah, Yuuri |
 2013-12-01 | [JT 2013 - Concert Paris Taiko (2/2)](https://youtu.be/PMtRclkw9xA) | TAIBOKU | Lynn, Nhật Huy, Sarah, Yuuri |
-2013-12-01 | [Paris Taiko Ensemble Live - Japan Touch 2013](https://youtu.be/AHLhlvIIEVA) | KIHON | Lê, Lynn, Nhật Huy, Sarah, Yuuri | Oui
+2013-12-01 | Paris Taiko Ensemble Live - Japan Touch 2013 [YouTube](https://youtu.be/AHLhlvIIEVA) [vimeo](https://vimeo.com/81152967) | KIHON | Lê, Lynn, Nhật Huy, Sarah, Yuuri | Oui
 2014-02-15 | [Le Taiko au 29ème Festival des Arts Martiaux](https://youtu.be/bZtkrOdgI4w?t=12s) | KIHON long | Lynn, Nhật Huy, Sarah, Tulga, Yuuri, __
 2014-05-03 | [Paris Taiko - Arel Tattoo show 2014](https://youtu.be/OXTcOtSDsyA) | KATA, KIHON long, TAIBOKU | Crystel, Lê, Nhật Huy, Tulga, Yuuri, __ | Oui
 2014-05-31 | [NAMT 2014 - Démonstration d'aikido avec André Cognard](https://youtu.be/ZK06XJnf5Ds) | accompagnement | Tulga |
@@ -27,10 +27,11 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2015-03-11 | [Démonstration Kokodo Jujutsu](https://youtu.be/As3ypv1bK-E) | accompagnement | Tulga |
 2015-03-11 | [NAMT 2015 avec Simon Pujol GOSHINKAÏ JUJUTSU](https://youtu.be/cmE06gEMQQo) | accompagnement | Nhật Huy, Tulga |
 2015-03-11 | [NAMT 2015 avec Pascal Guillemin AÏKIDO](https://youtu.be/K2m7yCm5kFw) | accompagnement | Nhật Huy, Tulga |
-2015-05-16 | [Paris Taïko Ensemble à la 4e Nuit des arts martiaux japonais](https://youtu.be/Nl3115Thi2U) | KIHON long | Crystel, Lynn, Nhật Huy, Sarah, Tulga |
+2015-05-16 | Paris Taïko Ensemble à la 4e Nuit des arts martiaux japonais [YouTube](https://youtu.be/Nl3115Thi2U) [dailymotion](http://dai.ly/x2qrxbq) | KIHON long | Crystel, Lynn, Nhật Huy, Sarah, Tulga |
 2015-10-17 | [Paris Taiko Ensemble (première partie) au Festival des Arts Martiaux Nord‐Europe 2015 (synchro a/v)](https://youtu.be/TlKmDXJo64c) | ATA | Crystel, Lynn, Nhật Huy, Tulga, Yuuri | Oui
 2015       | [Bande annonce "Le Roi Jean" de Shakespeare à Saumur ( les 7 et 14/08/15)](https://youtu.be/OOloGb2wT1U?t=42s) | KIHON | Nhật Huy, Tulga, __, __ |
 2015       | [Lionel Fernandez comédien, metteur en scène.](https://youtu.be/uRMrIxojLUY?t=28s) | KIHON | Nhật Huy, Tulga, __, __ |
+2016-03-26 | [Paris Taiko Ensemble Bercy Avril 2016](https://vimeo.com/172439470) | pas de son | Crystel, Lê, Lynn, Natalia, Nhật Huy, Tulga, __ |
 2016-06-25 | [NAMT 2016 - Démonstration d'aikido avec André Cognard](https://youtu.be/AvxLUDBKX3E) | accompagnement | Tulga |
 2016-09-18 | [tambours japonais au musée des arts forains](https://youtu.be/YlrA_USRvUM) | RAKUDA, KATA | Crystel, Lynn, Natalia, Nhật Huy, Sarah, Yuuri |
 2017-03-25 | [PARIS TAIKO ENSEMBLE AU 32EME FESTIVAL DES ARTS MARTIAUX](https://youtu.be/VkhMLEvsT4E) | KATA, KYOJAKU | Crystel, Lynn, Natalia, Nhật Huy, Sarah, Tulga, Yuuri | Oui
@@ -40,6 +41,7 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2017-09-10 | [Paris Taïko Ensemble à La Parisienne 2017](https://youtu.be/RZmPiEBRyyM) | KIHON | Kazzu, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
 2017-09-10 | [Paris Taïko Ensemble et les pirates de La Parisienne 2017](https://youtu.be/tBU0rkzBRtQ) | accompagnement | Agnès, Kazzu, Lynn, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
 2017-09-17 | [Paris Taiko Ensemble - KIHON (基本)](https://youtu.be/q3MToI0CVVw) | KIHON long | Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tulga, Yuuri | Oui
+2018-03-12 | [Paris Taiko Ensemble & Bein Sport](https://www.facebook.com/ParisTaikoEnsemble/videos/1879932455411579/?t=95) | KIHON | Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tristan, Tulga, Yuuri | Oui
 
 <style>
 	td:nth-child(2) {

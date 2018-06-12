@@ -38,13 +38,10 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2017-06-24 | [Nuit des Arts Martiaux Traditionnels 2017 - bande-annonce](https://youtu.be/8EiEfo1wo-c) | KIHON | / |
 2017-09-10 | [Paris Taïko Ensemble à La Parisienne 2017](https://youtu.be/9ZnclhguPUY) | KATA | Kazzu, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
 2017-09-10 | [Paris Taïko Ensemble à La Parisienne 2017](https://youtu.be/RZmPiEBRyyM) | KIHON | Kazzu, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
-2017-09-10 | [Paris Taïko Ensemble et les pirates de La Parisienne 2017]() | accompagnement | Agnès, Kazzu, Lynn, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
+2017-09-10 | [Paris Taïko Ensemble et les pirates de La Parisienne 2017](https://youtu.be/tBU0rkzBRtQ) | accompagnement | Agnès, Kazzu, Lynn, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
 2017-09-17 | [Paris Taiko Ensemble - KIHON (基本)](https://youtu.be/q3MToI0CVVw) | KIHON long | Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tulga, Yuuri | Oui
 
 <style>
-	td:first-child {
-		white-space: nowrap;
-	}
 	td:nth-child(2) {
 		font-size: .75em;
 	}

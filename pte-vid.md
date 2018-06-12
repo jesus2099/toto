@@ -1,4 +1,4 @@
-Vidéos PARIS TAÏKO ENSEMBLE
+Vidéos PARIS TAÏKO ENSEMBLE
 ===========================
 
 Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
@@ -48,14 +48,16 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 		font-size: .75em;
 	}
 	@media only screen and (max-width: 480px) {
-		th {
+		thead {
 			display: none;
 		}
 		td {
 			display: block;
 			border: none;
 		}
-		td:last-child {
+		tr {
+			display: block;
+			border: 2px solid pink;
 			margin-bottom: 1em;
 		}
 	}

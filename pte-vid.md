@@ -3,13 +3,13 @@ Vidéos PARIS TAÏKO ENSEMBLE
 
 Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 -----------|-------|----------|-----------|---------------------------
-2012-03    | [JAPAN EXPO SUD 2012 Concert de Taiko](https://youtu.be/DjyNOyaY71E?t=12s) | __ | Michel, Tulga, ___, ___, ___ |
+2012-03    | [JAPAN EXPO SUD 2012 Concert de Taiko](https://youtu.be/DjyNOyaY71E?t=12s) | __ | Michel, Tulga, __, __, __ |
 2012-03    | [Japan Expo Sud 2012 : Interview "Paris Taiko Ensemble"](https://youtu.be/qRZVVElOeig) | __, entretien | Michel, Tulga, __, __ |
 2012       | [Paris Taiko Ensemble](https://youtu.be/AIcF75cgpVs) | __ | Tulga, __, __, __, __ |
 2013-03    | [PARIS TAIKO ENSEMBLE Marseille Japan Expo SUD 2012](https://youtu.be/BP08PRA-fRM) | TAIBOKU, KIHON, __ | Michel, Tulga, __, __, __, __ |
 2012-06-21 | [Paris. Fête de la musique 2012](https://youtu.be/AyMGmZHzE4Y) | __ | Tulga, __, __
 2012-11-24 | [NAMT 2012 avec Tulga Yesilaltay](https://youtu.be/VaKtrY3DWW4) | __, __ | Tulga, __, __, __, __
-2012       | [Inside Deus Ex Machina - Sekigahara](https://youtu.be/awwQEiVIVbE) | KIHON | Tulga, __, __, __, __ | Oui
+2012       | [Inside Deus Ex Machina - Sekigahara](https://youtu.be/awwQEiVIVbE) | KIHON, KATA | Tulga, __, __, __, __ | Oui
 2013-01    | [Festival des Arts Martiaux 2013 : répétitions du groupe Paris Taiko Ensemble](https://youtu.be/_QrQgghzliw?t=11s) | KIHON, entretien | Lynn, Nhật Huy, Tulga, __, __, __ |
 2013-06-21 | [4 Paris Taiko tambours du japon P1150678](https://youtu.be/vu7t2NDkQco) | __ | Nhật Huy, Tulga, __, __ | 
 2013-06-21 | [5 Paris Taiko tambours du japon P1150692](https://youtu.be/I0oRczhdgc0) | KATA | Lynn, Nhật Huy, Sarah, Tulga, __ |

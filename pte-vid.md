@@ -42,6 +42,7 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2017-09-10 | [Paris Taïko Ensemble et les pirates de La Parisienne 2017](https://youtu.be/tBU0rkzBRtQ) | accompagnement | Agnès, Kazzu, Lynn, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
 2017-09-17 | [Paris Taiko Ensemble - KIHON (基本)](https://youtu.be/q3MToI0CVVw) | KIHON long | Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tulga, Yuuri | Oui
 2018-03-12 | [Paris Taiko Ensemble & Bein Sport](https://www.facebook.com/ParisTaikoEnsemble/videos/1879932455411579/?t=95) | KIHON | Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tristan, Tulga, Yuuri | Oui
+2018-03-24 | [LE TAIKO AU 33EME FESTIVAL DES ARTS MARTIAUX](https://youtu.be/mDyY1UdnxM8) | KIHON | Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tristan, Tulga, Yuuri | Oui
 
 <style>
 	td:nth-child(2) {

@@ -31,6 +31,7 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2014-05-31 | [NAMT 2014 - Démonstration d'aikido avec André Cognard](https://youtu.be/ZK06XJnf5Ds) | accompagnement | Tulga |
 2014-05-03 | [Paris Taiko - Arel Tattoo show 2014](https://youtu.be/OXTcOtSDsyA) | KATA, KIHON long, TAIBOKU | Crystel, Lê, Nhật Huy, Tulga, Yuuri, __ | Oui
 2014-02-15 | [Le Taiko au 29ème Festival des Arts Martiaux](https://youtu.be/bZtkrOdgI4w?t=12s) | KIHON long | Lynn, Nhật Huy, Sarah, Tulga, Yuuri, __
+2014       | [Paris Taiko Ensemble](https://www.facebook.com/david.joumat/videos/623249231120927/) | KATA | Nhật Huy, Tulga, Yuuri, __ | Non
 2013-12-01 | [Paris Taiko Ensemble Live - Japan Touch 2013](https://youtu.be/AHLhlvIIEVA) = [Paris Taiko Ensemble LIVE](https://vimeo.com/81152967) | KIHON | Lê, Lynn, Nhật Huy, Sarah, Yuuri | Oui
 2013-12-01 | [JT 2013 - Concert Paris Taiko (2/2)](https://youtu.be/PMtRclkw9xA) | TAIBOKU | Lynn, Nhật Huy, Sarah, Yuuri |
 2013-12-01 | [JT 2013 - Concert Paris Taiko (1/2)](https://youtu.be/13JCVPqXf-M) | KIHON | Lê, Lynn, Nhật Huy, Sarah, Yuuri |

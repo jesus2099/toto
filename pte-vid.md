@@ -28,6 +28,7 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2015-03-11 | [Démonstration Kokodo Jujutsu](https://youtu.be/As3ypv1bK-E) | accompagnement | Tulga |
 2015-03-11 | [NAMT 2015 avec Simon Pujol GOSHINKAÏ JUJUTSU](https://youtu.be/cmE06gEMQQo) | accompagnement | Nhật Huy, Tulga |
 2015-03-11 | [NAMT 2015 avec Pascal Guillemin AÏKIDO](https://youtu.be/K2m7yCm5kFw) | accompagnement | Nhật Huy, Tulga |
+2015-05-16 | [Shorinji Kempo à la 4e Nuit des arts martiaux japonais](http://dai.ly/x2r47lj) | accompagnement | __ |
 2015-05-16 | Paris Taïko Ensemble à la 4e Nuit des arts martiaux japonais [YouTube](https://youtu.be/Nl3115Thi2U) [dailymotion](http://dai.ly/x2qrxbq) | KIHON long | Crystel, Lynn, Nhật Huy, Sarah, Tulga |
 2015-10-17 | [Paris Taiko Ensemble (première partie) au Festival des Arts Martiaux Nord‐Europe 2015 (synchro a/v)](https://youtu.be/TlKmDXJo64c) | ATA | Crystel, Lynn, Nhật Huy, Tulga, Yuuri | Oui
 2015       | [Bande annonce "Le Roi Jean" de Shakespeare à Saumur ( les 7 et 14/08/15)](https://youtu.be/OOloGb2wT1U?t=42s) | KIHON | Nhật Huy, Tulga, __, __ |

@@ -11,7 +11,7 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2018-03-24 | [LE TAIKO AU 33EME FESTIVAL DES ARTS MARTIAUX](https://youtu.be/mDyY1UdnxM8) | KIHON | Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tristan, Tulga, Yuuri | Oui
 2018-03-12 | [Paris Taiko Ensemble & Bein Sport](https://www.facebook.com/ParisTaikoEnsemble/videos/1879932455411579/?t=95) | KIHON | Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tristan, Tulga, Yuuri | Oui
 2017-11-18 | [Opening at the Artclub Gallery November 18, 2017](https://www.facebook.com/183092131765339/videos/1702622349812302/?t=15) | KATA, KIHON | Natalia, Tristan, Tulga |
-2017-09-17 | [Paris Taiko Ensemble - KIHON (基本)](https://youtu.be/q3MToI0CVVw) | KIHON long | Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tulga, Yuuri | Oui
+2017-09-17 | [Paris Taiko Ensemble - KIHON (基本)](https://youtu.be/q3MToI0CVVw) | KIHON | Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tulga, Yuuri | Oui
 2017-09-10 | [Paris Taïko Ensemble et les pirates de La Parisienne 2017](https://youtu.be/tBU0rkzBRtQ) | (accompagnement) | Agnès, Kazzu, Lynn, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
 2017-09-10 | [Paris Taïko Ensemble à La Parisienne 2017](https://youtu.be/RZmPiEBRyyM) | KIHON | Kazzu, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
 2017-09-10 | [Paris Taïko Ensemble à La Parisienne 2017](https://youtu.be/9ZnclhguPUY) | KATA | Kazzu, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
@@ -25,7 +25,7 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2016-03-26 | [Paris Taiko Ensemble Bercy Avril 2016](https://vimeo.com/172439470) | (pas de son) | Crystel, Lê, Lynn, Natalia, Nhật Huy, Tulga, __ |
 2015-10-17 | [Paris Taiko Ensemble (première partie) au Festival des Arts Martiaux Nord‐Europe 2015 (synchro a/v)](https://youtu.be/TlKmDXJo64c) | ATA | Crystel, Lynn, Nhật Huy, Tulga, Yuuri | Oui
 2015-05-16 | [Shorinji Kempo à la 4e Nuit des arts martiaux japonais](http://dai.ly/x2r47lj) | (accompagnement) | __ |
-2015-05-16 | [Paris Taïko Ensemble à la 4e Nuit des arts martiaux japonais](https://youtu.be/Nl3115Thi2U) = [Paris Taïko Ensemble à la 4e Nuit des arts martiaux japonais](http://dai.ly/x2qrxbq) | KIHON long | Crystel, Lynn, Nhật Huy, Sarah, Tulga |
+2015-05-16 | [Paris Taïko Ensemble à la 4e Nuit des arts martiaux japonais](https://youtu.be/Nl3115Thi2U) = [Paris Taïko Ensemble à la 4e Nuit des arts martiaux japonais](http://dai.ly/x2qrxbq) | KIHON | Crystel, Lynn, Nhật Huy, Sarah, Tulga |
 2015-03-11 | [NAMT 2015 avec Simon Pujol GOSHINKAÏ JUJUTSU](https://youtu.be/cmE06gEMQQo) | (accompagnement) | Nhật Huy, Tulga |
 2015-03-11 | [NAMT 2015 avec Pascal Guillemin AÏKIDO](https://youtu.be/K2m7yCm5kFw) | (accompagnement) | Nhật Huy, Tulga |
 2015-03-11 | [Démonstration Mugai Ryu](https://youtu.be/yZUlOGbd0vY?t=1m35s) | (accompagnement) | Tulga |
@@ -35,8 +35,8 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2015       | [Bande annonce "Le Roi Jean" de Shakespeare à Saumur ( les 7 et 14/08/15)](https://youtu.be/OOloGb2wT1U?t=42s) | KIHON | Nhật Huy, Tulga, __, __ |
 2014-06-21 | [Fête de la musique 2014 à Paris](https://youtu.be/pBnNh7utEQ8?t=2m42s) | KATA | Lynn, Yuuri, Sarah, Tulga, __, __ |
 2014-05-31 | [NAMT 2014 - Démonstration d'aikido avec André Cognard](https://youtu.be/ZK06XJnf5Ds) | (accompagnement) | Tulga |
-2014-05-03 | [Paris Taiko - Arel Tattoo show 2014](https://youtu.be/OXTcOtSDsyA) | KATA, KIHON long, TAIBOKU | Crystel, Lê, Nhật Huy, Tulga, Yuuri, __ | Oui
-2014-02-15 | [Le Taiko au 29ème Festival des Arts Martiaux](https://youtu.be/bZtkrOdgI4w?t=12s) | KIHON long | Lynn, Nhật Huy, Sarah, Tulga, Yuuri, __
+2014-05-03 | [Paris Taiko - Arel Tattoo show 2014](https://youtu.be/OXTcOtSDsyA) | KATA, KIHON, TAIBOKU | Crystel, Lê, Nhật Huy, Tulga, Yuuri, __ | Oui
+2014-02-15 | [Le Taiko au 29ème Festival des Arts Martiaux](https://youtu.be/bZtkrOdgI4w?t=12s) | KIHON | Lynn, Nhật Huy, Sarah, Tulga, Yuuri, __
 2014       | [Paris Taiko Ensemble](https://www.facebook.com/david.joumat/videos/623249231120927/) | KATA | Nhật Huy, Tulga, Yuuri, __ | (son saturé)
 2013-12-01 | [Paris Taiko Ensemble Live - Japan Touch 2013](https://youtu.be/AHLhlvIIEVA) = [Paris Taiko Ensemble LIVE](https://vimeo.com/81152967) | KIHON | Lê, Lynn, Nhật Huy, Sarah, Yuuri | Oui
 2013-12-01 | [JT 2013 - Concert Paris Taiko (2/2)](https://youtu.be/PMtRclkw9xA) | TAIBOKU | Lynn, Nhật Huy, Sarah, Yuuri |
@@ -50,11 +50,11 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2013-06-21 | [4 Paris Taiko tambours du japon P1150678](https://youtu.be/vu7t2NDkQco) | __ | Nhật Huy, Tulga, __, __ | 
 2013-06-21 | [3e extrait Paris Taiko au Louvre le 21 juin lors de la Fête de la musique](https://www.facebook.com/patrick.emery3/videos/vb.100000827281640/538619746175597/) | __ | __ |
 2013-03    | [PARIS TAIKO ENSEMBLE Marseille Japan Expo SUD 2012](https://youtu.be/BP08PRA-fRM) | TAIBOKU, KIHON, __ | Michel, Tulga, __, __, __, __ |
-2013-01    | [Festival des Arts Martiaux 2013 : répétitions du groupe Paris Taiko Ensemble](https://youtu.be/_QrQgghzliw?t=11s) | KIHON, entretien | Lynn, Nhật Huy, Tulga, __, __, __ |
+2013-01    | [Festival des Arts Martiaux 2013 : répétitions du groupe Paris Taiko Ensemble](https://youtu.be/_QrQgghzliw?t=11s) | KIHON, (entretien) | Lynn, Nhật Huy, Tulga, __, __, __ |
 2012-11-24 | [NAMT 2012 avec Tulga Yesilaltay](https://youtu.be/VaKtrY3DWW4) | __, __ | Tulga, __, __, __, __
 2012-06-21 | [Paris. Fête de la musique 2012](https://youtu.be/AyMGmZHzE4Y) | __ | Tulga, __, __
 2012-03    | [JAPAN EXPO SUD 2012 Concert de Taiko](https://youtu.be/DjyNOyaY71E?t=12s) | __ | Michel, Tulga, __, __, __ |
-2012-03    | [Japan Expo Sud 2012 : Interview "Paris Taiko Ensemble"](https://youtu.be/qRZVVElOeig) | __, entretien | Michel, Tulga, __, __ |
+2012-03    | [Japan Expo Sud 2012 : Interview "Paris Taiko Ensemble"](https://youtu.be/qRZVVElOeig) | __, (entretien) | Michel, Tulga, __, __ |
 2012-01?   | [Les rythmes du Taiko à Japan Expo Sud](http://dai.ly/xo92am) | KIHON | Michel, Tulga, __, __, __, __ |
 2012       | [Paris Taiko Ensemble](https://youtu.be/AIcF75cgpVs) | __ | Tulga, __, __, __, __ |
 2012       | [Inside Deus Ex Machina - Sekigahara](https://youtu.be/awwQEiVIVbE) | KIHON, KATA | Tulga, __, __, __, __ | Oui

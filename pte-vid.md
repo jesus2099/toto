@@ -3,6 +3,7 @@ Vidéos PARIS TAÏKO ENSEMBLE
 
 Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 -----------|-------|----------|-----------|---------------------------
+2012-01?   | [Les rythmes du Taiko à Japan Expo Sud](http://dai.ly/xo92am) | KIHON | Michel, Tulga, __, __, __, __ |
 2012-03    | [JAPAN EXPO SUD 2012 Concert de Taiko](https://youtu.be/DjyNOyaY71E?t=12s) | __ | Michel, Tulga, __, __, __ |
 2012-03    | [Japan Expo Sud 2012 : Interview "Paris Taiko Ensemble"](https://youtu.be/qRZVVElOeig) | __, entretien | Michel, Tulga, __, __ |
 2012       | [Paris Taiko Ensemble](https://youtu.be/AIcF75cgpVs) | __ | Tulga, __, __, __, __ |

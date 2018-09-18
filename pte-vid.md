@@ -16,7 +16,7 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2017-09-10 | [Paris Taïko Ensemble et les pirates de **La Parisienne** 2017](https://youtu.be/tBU0rkzBRtQ) | accompagnement | Agnès, Kazzu, Lynn, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
 2017-09-10 | [Paris Taïko Ensemble à **La Parisienne** 2017](https://youtu.be/RZmPiEBRyyM) | KIHON | Kazzu, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
 2017-09-10 | [Paris Taïko Ensemble à **La Parisienne** 2017](https://youtu.be/9ZnclhguPUY) | KATA | Kazzu, Natalia, Nhật Huy, Sylvain, Tristan, Tulga, Yuuri |
-2017-06-24 | [**Nuit des Arts Martiaux Traditionnels** 2017 - bande-annonce](https://youtu.be/8EiEfo1wo-c) | KIHON | (pas d’image) |
+2017-06-24 | [**Nuit des Arts Martiaux Traditionnels** 2017 - bande-annonce](https://youtu.be/8EiEfo1wo-c) = [**NAMT** 2017 - Bande-annonce](https://vimeo.com/229829840) | KIHON | (pas d’image) |
 2017-03-25 | [PARIS TAIKO ENSEMBLE AU 32EME **FESTIVAL DES ARTS MARTIAUX**](https://youtu.be/VkhMLEvsT4E) | KATA, KYOJAKU | Crystel, Lynn, Natalia, Nhật Huy, Sarah, Tulga, Yuuri | Oui
 2017-03-25 | [**Festival des Arts Martiaux** 2017 : Taiko Pencak Silat](https://youtu.be/QTErTuWqZ-0) | KATA | Crystel, Lynn, Natalia, Nhật Huy, Sarah, Tulga, Yuuri |
 2017       | [Very cool outdoor international festival vibes with the Paris Taiko ensemble !](https://www.facebook.com/InspirelleParis/videos/804750539690946/) | (pas de son) | Natalia, Nhật Huy, Sylvain |

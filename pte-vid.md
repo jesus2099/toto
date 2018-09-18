@@ -3,6 +3,7 @@ Vidéos PARIS TAÏKO ENSEMBLE
 
 Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 -----------|-------|----------|-----------|---------------------------
+2018-08-11 | [Merci infiniment à Damien Vandessande (DOP), Loris, Mathias Duchemin (Circus Company) et Paris Taiko Ensemble pour cette session d’enregistrement pour la musique du film **Nogochi**. Encore merci à tous les gens qui nous soutiennent dans cette aventure...Nogochi coming soon !!](https://www.facebook.com/nogochithemovie/videos/2193599444255045?t=14) | TAIBOKU | Nhật Huy, Tulga |
 2018-06-21 | [Today was **Fete de la Musique**, and Paris was full of music (some good, some less than good 😳) One of the bands was great, the “Paris Taiko Ensemble” dedicated to explore the famous Japanese “Big Drums” played since the VII Century!](https://www.facebook.com/joe.gueron/videos/10217184029533243) | KIHON | Agnès, Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tristan, Tulga |
 2018-06-21 | [Paris Taiko Ensemble, **Fête de la Musique**, 2018](https://youtu.be/TJwSHGQTXsE) | KIHON, KYOJAKU | Agnès, Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tristan, Tulga |
 2018-06-21 | [Musique tambour Paris-taiko.com](https://www.facebook.com/louisefrederique.LF/videos/1587505334712214) | RAKUDA | Lynn, Natalia, Nhật Huy, Sarah, Tulga | son saturé

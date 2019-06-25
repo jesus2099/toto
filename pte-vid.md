@@ -3,6 +3,20 @@ Vidéos PARIS TAÏKO ENSEMBLE
 
 Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 -----------|-------|----------|-----------|---------------------------
+2019-06-21 | [Taïko **Fête de la Musique 2019**](https://youtu.be/TNs3itMal58) | KIHON (2ème set, final) | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Agnès, Carole, Suzie, Miguel, Aurélie | Oui
+2019-06-21 | [Taiko à Paris](https://youtu.be/yeD2C43uYj0) | KATA long | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan | Oui
+2019-06-21 | [Paris Taiko ensemble #عيد_الموسيقى بالقرب من اللوفر](https://www.facebook.com/mayssa.awad/videos/10156136560525918) | KIHON | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Agnès, Carole, Suzie, Miguel, Aurélie |
+2019-06-21 | [#fetedelamusique #2019 #taiko #paristaikoensemble](https://www.facebook.com/ecazin/posts/10157379914467710)→[vidéo](https://www.facebook.com/ecazin/videos/10157379912972710) | KATA | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Miguel, Aurélie, Nagisa |
+2019-06-19 | [Fête de fin d’année au jardin d’enfants **Épona** avec un groupe de Taiko ( tambours traditionnels japonais)](https://www.facebook.com/hacene.habi/videos/10216637395020171) | KIHON | Tulga, Nhật Huy, Agnès, Miguel, Alexandra |
+2019-06-16 | [Représentation du Paris Taiko Ensemble à l’école **Bouvines le 16 juin 2019**](https://youtu.be/Erui7-G-fIY) | KIHON long | Tulga, Nhật Huy, Lynn, Tristan, Alexandra |
+2019-05-26 | [Paris Taiko Ensemble **希望祭** 6/6](https://youtu.be/6l-LgYscRIo) | KYŌJAKU | Tulga, Nhật Huy, Sarah, Lynn, Sylvain, Tristan, Carole, Suzie, Miguel | Oui
+2019-05-26 | [Paris Taiko Ensemble **希望祭** 5/6](https://youtu.be/1XasjZM-l-Y) | KIHON long 〜 KIHON | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan 〜 Carole, Suzie, Miguel | Oui
+2019-05-26 | [Paris Taiko Ensemble **希望祭** 4/6](https://youtu.be/YP3o6aGuNVY) | TAIBOKU | Tulga, Nhật Huy, Sarah | Oui
+2019-05-26 | [Paris Taiko Ensemble **希望祭** 3/6](https://youtu.be/LCNfOms5ClA) | KATA long | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan | Oui
+2019-05-26 | [Paris Taiko Ensemble **希望祭** 2/6](https://youtu.be/3ElwqTp_Tb4) | RAKUDA | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan | Oui
+2019-05-26 | [Paris Taiko Ensemble **希望祭** 1/6](https://youtu.be/l8z42xNSUJA) | KIHON | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie, Miguel | Oui
+2019-03-23 | [Paris Taiko Ensemble au **34ème Festival des Arts Martiaux**](https://youtu.be/Y75l0cF2vKc) | KIHON | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie | Oui
+2019-03-17 | [Stage GHAAN à Yerres en l’honneur de maître Nocquet avec ambiance Taïko](https://www.facebook.com/AIKIDO.BUDO.officiel/posts/2105926299429778) | KATA suite | Tulga, Sarah, Sylvain, Tristan |
 2018-08-11 | [Merci infiniment à Damien Vandessande (DOP), Loris, Mathias Duchemin (Circus Company) et Paris Taiko Ensemble pour cette session d’enregistrement pour la musique du film **Nogochi**. Encore merci à tous les gens qui nous soutiennent dans cette aventure...Nogochi coming soon !!](https://www.facebook.com/nogochithemovie/videos/2193599444255045?t=14) | TAIBOKU | Nhật Huy, Tulga |
 2018-06-21 | [Today was **Fete de la Musique**, and Paris was full of music (some good, some less than good 😳) One of the bands was great, the “Paris Taiko Ensemble” dedicated to explore the famous Japanese “Big Drums” played since the VII Century!](https://www.facebook.com/joe.gueron/videos/10217184029533243) | KIHON | Agnès, Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tristan, Tulga |
 2018-06-21 | [Paris Taiko Ensemble, **Fête de la Musique**, 2018](https://youtu.be/TJwSHGQTXsE) | KIHON, KYOJAKU | Agnès, Lynn, Natalia, Nhật Huy, Sarah, Sylvain, Tristan, Tulga |

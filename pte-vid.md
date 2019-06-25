@@ -94,4 +94,15 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 			margin-bottom: 1em;
 		}
 	}
+	a > img {
+		margin-right: 4px;
+		max-height: 16px;
+		vertical-align: middle;
+	}
 </style>
+
+<script type="text/javascript">
+	for (var links = document.querySelectorAll("td > a"), i = 0; i < links.length; i++) {
+		links[i].insertBefore(document.createElement("img"), links[i].firstChild).setAttribute("src", links[i].getAttribute("href").match(/https?:\/\/[^/]+/) + "/favicon.ico");
+	}
+</script>

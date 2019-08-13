@@ -4,6 +4,10 @@ Vidéos tierces du PARIS TAÏKO ENSEMBLE
 Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 -----------|-------|----------|-----------|---------------------------
 2019-06-21 | [Taïko **Fête de la Musique 2019**](https://youtu.be/TNs3itMal58) | KIHON (2ème set, final) | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Agnès, Carole, Suzie, Miguel, Aurélie | Oui
+2019-06-21 | [Taiko **Fête de la Musique 2019** / meeting HS](https://youtu.be/7DxCe0BWpNU) | WASHI | Tulga, Tristan, Henri |
+2019-06-21 | [**Fête de la Musique 2019** Taïko / meeting HS](https://youtu.be/3xfinQolnj8) | KYOJAKU (2ème set) | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie, Miguel |
+2019-06-21 | [**Fête de la Musique 2019** / meeting HS Taiko](https://youtu.be/a5nSf6cWzpw) | SAKAL | Tulga, Nhật Huy, Sarah |
+2019-06-21 | [**Fête de la Musique** / meeting HS **2019**](https://youtu.be/NT_ELXEb7_s) | ATA 〜 KIHON | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Miguel 〜 Agnès, Carole, Suzie, Aurélie |
 2019-06-21 | [Taiko à Paris](https://youtu.be/yeD2C43uYj0) | KATA long | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan | Oui
 2019-06-21 | [Paris Taiko ensemble #عيد_الموسيقى بالقرب من اللوفر](https://www.facebook.com/mayssa.awad/videos/10156136560525918) | KIHON | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Agnès, Carole, Suzie, Miguel, Aurélie |
 2019-06-21 | [#fetedelamusique #2019 #taiko #paristaikoensemble](https://www.facebook.com/ecazin/posts/10157379914467710)→[vidéo](https://www.facebook.com/ecazin/videos/10157379912972710) | KATA | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Miguel, Aurélie, Nagisa |

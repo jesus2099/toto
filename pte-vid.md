@@ -3,7 +3,11 @@ Vidéos tierces du PARIS TAÏKO ENSEMBLE
 
 Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 -----------|-------|----------|-----------|---------------------------
+2020-01-11 | [Taïko ! **Japon matsuri vannes**](https://www.facebook.com/arnaud.bouckellyoen/videos/10222430102048149) | HASH HASH | Tulga, Nhật Huy, Aurélie, Nagisa |
 2020-01-11 | [⛩️ **Japan Vannes Matsuri** ⛩️](https://twitter.com/RoadAndTroll/status/1215986234599903234) | KIHON | Tulga, Nhật Huy, Aurélie, Nagisa |
+2019-12-14 | [La soirée d'hier s'est terminée en beauté avec le concert de Paris Taiko Ensemble.](https://www.facebook.com/kimonorikiki/posts/2729744753755425) | HASH HASH | Tulga, Nhật Huy, Yuuri, Sarah, Aurélie, Nagisa |
+2019-09-07 | [**Judo Club La Grande-Paroisse** Paris TAÏKO Ensemble](https://www.facebook.com/judoclublgp/videos/503056637094429) | KATA cœur et suite | Tulga, Nhật Huy, Tristan, Miguel, Aurélie |
+2019-09-07 | [Ouverture de l'inauguration par la troupe Paris TaÏko ensemble](https://www.facebook.com/531198997058015/videos/561750084568576) | KIHON long | Tulga, Nhật Huy, Tristan, Miguel, Aurélie |
 2019-06-21 | [Taïko **Fête de la Musique 2019**](https://youtu.be/TNs3itMal58) | KIHON (2ème set, final) | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Agnès, Carole, Suzie, Miguel, Aurélie | Oui
 2019-06-21 | [Taiko **Fête de la Musique 2019** / meeting HS](https://youtu.be/7DxCe0BWpNU) | WASHI | Tulga, Tristan, Henri |
 2019-06-21 | [**Fête de la Musique 2019** Taïko / meeting HS](https://youtu.be/3xfinQolnj8) | KYOJAKU (2ème set) | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie, Miguel |
@@ -21,10 +25,13 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2019-05-26 | [Paris Taiko Ensemble **希望祭** 2/6](https://youtu.be/3ElwqTp_Tb4) | RAKUDA | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan | Oui
 2019-05-26 | [Paris Taiko Ensemble **希望祭** 1/6](https://youtu.be/l8z42xNSUJA) | KIHON | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie, Miguel | Oui
 2019-03-23 | [Paris Taiko Ensemble au **34ème Festival des Arts Martiaux**](https://youtu.be/Y75l0cF2vKc) | KIHON | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie | Oui
+2019-03-17 | [… Nous avons eu le privilège de vibrer sur ce groupe, PARIS TAIKO, écouter! Vous n'aurez ni le son originel ni les sensations mais ça ce passe de commentaires tout de même!](https://www.facebook.com/groups/714671678636954/permalink/1876870945750349) | KIHON | Tulga, Sarah, Sylvain, Tristan, Suzie | Oups
 2019-03-17 | [Stage GHAAN à Yerres en l’honneur de maître Nocquet avec ambiance Taïko](https://www.facebook.com/AIKIDO.BUDO.officiel/posts/2105926299429778) | KATA suite | Tulga, Sarah, Sylvain, Tristan |
 2019-01-27 | [☆**JAPAN MATSURI VANNES 2019**☆](https://youtu.be/Fj1xTj32AfU?t=2m13s) | KIHON | Tulga, Nhật Huy, Tristan, Carole |
 2019-01-26 | [**Japan Vannes Matsuri** : notre convention coup de cœur en Bretagne !](https://youtu.be/V7doHs5GCsw?t=3m41s) | (pas de son) | Tulga, Nhật Huy, Tristan |
+2019-01-26 | [Samedi dernier à **Japan Vannes Matsuri**](https://www.facebook.com/fabrice.godard1/videos/10212647868047661) | KYOJAKU | Tulga, Nhật Huy, Tristan |
 2018-08-11 | [Merci infiniment à Damien Vandessande (DOP), Loris, Mathias Duchemin (Circus Company) et Paris Taiko Ensemble pour cette session d’enregistrement pour la musique du film **Nogochi**. Encore merci à tous les gens qui nous soutiennent dans cette aventure...Nogochi coming soon !!](https://www.facebook.com/nogochithemovie/videos/2193599444255045?t=14) | HASH HASH | Tulga, Nhật Huy |
+2018-07-21 | [Les paris ensemble taiko **à Dzaïr Manga Matsuri**](https://www.facebook.com/hbmangakissa/videos/2104161019798893) | KIHON long | Tulga, Nhật Huy, Sarah, Crystel |
 2018-06-21 | [#fetedelamusique2018 #paristaikoensemble](https://www.instagram.com/p/BkV1x4JAZ6_/) | Solo | Nhật Huy |
 2018-06-21 | [Today was **Fete de la Musique**, and Paris was full of music (some good, some less than good 😳) One of the bands was great, the “Paris Taiko Ensemble” dedicated to explore the famous Japanese “Big Drums” played since the VII Century!](https://www.facebook.com/joe.gueron/videos/10217184029533243) | KIHON | Tulga, Nhật Huy, Sarah, Lynn, Sylvain, Natalia, Tristan, Agnès |
 2018-06-21 | [Paris Taiko Ensemble, **Fête de la Musique**, 2018](https://youtu.be/TJwSHGQTXsE) | KIHON, KYOJAKU | Tulga, Nhật Huy, Sarah, Lynn, Sylvain, Natalia, Tristan, Agnès |
@@ -41,11 +48,12 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2017-06-24 | [**Nuit des Arts Martiaux Traditionnels** 2017 - bande-annonce](https://youtu.be/8EiEfo1wo-c) = [**NAMT** 2017 - Bande-annonce](https://vimeo.com/229829840) | KIHON | (pas d’image) |
 2017-03-25 | [PARIS TAIKO ENSEMBLE AU 32EME **FESTIVAL DES ARTS MARTIAUX**](https://youtu.be/VkhMLEvsT4E) | KATA, KYOJAKU | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Crystel, Natalia | Oui
 2017-03-25 | [**Festival des Arts Martiaux** 2017 : Taiko Pencak Silat](https://youtu.be/QTErTuWqZ-0) | KATA | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Crystel, Natalia |
-2017       | [Very cool outdoor international festival vibes with the Paris Taiko ensemble !](https://www.facebook.com/InspirelleParis/videos/804750539690946/) | (pas de son) | Nhật Huy, Sylvain, Natalia |
+2017       | [Very cool outdoor international festival vibes with the Paris Taiko ensemble !](https://www.facebook.com/InspirelleParis/videos/804750539690946) | (pas de son) | Nhật Huy, Sylvain, Natalia |
 2016-09-18 | [tambours japonais au **musée des arts forains**](https://youtu.be/YlrA_USRvUM) | RAKUDA, KATA long | Nhật Huy, Yuuri, Sarah, Lynn, Crystel, Natalia |
 2016-06-25 | [**NAMT** 2016 - Démonstration d’aikido avec André Cognard](https://youtu.be/AvxLUDBKX3E) | accompagnement | Tulga |
-2016-05-22 | [les tambours en action beau synchronisme / les tambours de paris taiko ensemble](https://www.facebook.com/lenobledenis/videos/10208165846517795/) | KIHON | Tulga, Nhật Huy, Lễ, Crystel, Natalia, -- |
+2016-05-22 | [les tambours en action beau synchronisme / les tambours de paris taiko ensemble](https://www.facebook.com/lenobledenis/videos/10208165846517795) | KIHON | Tulga, Nhật Huy, Lễ, Crystel, Natalia, -- |
 2016-03-26 | [Paris Taiko Ensemble **Bercy** Avril 2016](https://vimeo.com/172439470) | (pas de son) | Tulga, Nhật Huy, Lễ, Lynn, Crystel, Natalia, -- |
+2016       | [Wadaïko. paros taiko ensemble www.paris-taïko.com](https://www.facebook.com/RosyPhotographe/videos/1223452994372838) | ATA | Lynn, Crystel, Natalia, -- |
 2015-10-17 | [Paris Taiko Ensemble (première partie) au **Festival des Arts Martiaux Nord‐Europe** 2015 (synchro a/v)](https://youtu.be/TlKmDXJo64c) | ATA | Tulga, Nhật Huy, Yuuri, Lynn, Crystel | Oui
 2015-05-16 | [Shorinji Kempo à la 4e **Nuit des arts martiaux japonais**](http://dai.ly/x2r47lj) | accompagnement | -- |
 2015-05-16 | [Paris Taïko Ensemble à la 4e **Nuit des arts martiaux japonais**](https://youtu.be/Nl3115Thi2U) = [Paris Taïko Ensemble à la 4e Nuit des arts martiaux japonais](http://dai.ly/x2qrxbq) | KIHON | Tulga, Nhật Huy, Sarah, Lynn, Crystel |
@@ -60,18 +68,18 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2014-05-31 | [**NAMT** 2014 - Démonstration d’aikido avec André Cognard](https://youtu.be/ZK06XJnf5Ds) | accompagnement | Tulga |
 2014-05-03 | [Paris Taiko - **Arel Tattoo show** 2014](https://youtu.be/OXTcOtSDsyA) | KATA, KIHON, HASH HASH | Tulga, Nhật Huy, Yuuri, Lễ, Crystel, -- | Oui
 2014-02-15 | [Le Taiko au 29ème **Festival des Arts Martiaux**](https://youtu.be/bZtkrOdgI4w?t=12s) | KIKADO | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, --
-2014       | [Paris Taiko Ensemble](https://www.facebook.com/david.joumat/videos/623249231120927/) | KATA | Tulga, Nhật Huy, Yuuri, -- | son saturé
+2014       | [Paris Taiko Ensemble](https://www.facebook.com/david.joumat/videos/623249231120927) | KATA | Tulga, Nhật Huy, Yuuri, -- | son saturé
 2013-12-01 | [Paris Taiko Ensemble Live - **Japan Touch** 2013](https://youtu.be/AHLhlvIIEVA) = [Paris Taiko Ensemble LIVE](https://vimeo.com/81152967) | KIHON | Nhật Huy, Yuuri, Sarah, Lynn, Lễ | Oui
 2013-12-01 | [**JT** 2013 - Concert Paris Taiko (2/2)](https://youtu.be/PMtRclkw9xA) | HASH HASH | Nhật Huy, Yuuri, Sarah, Lynn |
 2013-12-01 | [**JT** 2013 - Concert Paris Taiko (1/2)](https://youtu.be/13JCVPqXf-M) | KIHON | Nhật Huy, Yuuri, Sarah, Lynn, Lễ |
 2013-11-30 〜 12-01 | [Compte rendu scène **Japan Touch** 2013](https://youtu.be/lg080AVSeis?t=1m57s) | --, KIHON | Nhật Huy, Yuuri, Sarah, Lynn, Lễ |
-2013-09-13 〜 15 | [Paris Taiko Ensemble si vous les avez manqué ils repassent ce soir a 19h](https://www.facebook.com/La.Parisienne.course/videos/10202278175544391/) | -- | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, --, --, -- |
-2013-06-21 | [suite Paris Taiko au **Louvre**](https://www.facebook.com/patrick.emery3/videos/vb.100000827281640/538616669509238/) | KATA suite | -- |
+2013-09-13 〜 15 | [Paris Taiko Ensemble si vous les avez manqué ils repassent ce soir a 19h](https://www.facebook.com/La.Parisienne.course/videos/10202278175544391) | -- | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, --, --, -- |
+2013-06-21 | [suite Paris Taiko au **Louvre**](https://www.facebook.com/patrick.emery3/videos/vb.100000827281640/538616669509238) | KATA suite | -- |
 2013-06-21 | [Spectacle de Taiko lors de la **Fête de la Musique**, le 21/06/13 au Louvre, Paris](https://youtu.be/toNocDmNpLw) | KYOJAKU | Tulga, Nhật Huy, Sarah, Lynn, -- |
-2013-06-21 | [Paris Taiko - Tambours du Japon au carrousel du Louvre **Fête de la musique** 2013 (video N°3)](https://www.facebook.com/patrick.emery3/videos/538322976205274/) | -- | Yuuri, --, -- |
+2013-06-21 | [Paris Taiko - Tambours du Japon au carrousel du Louvre **Fête de la musique** 2013 (video N°3)](https://www.facebook.com/patrick.emery3/videos/538322976205274) | -- | Yuuri, --, -- |
 2013-06-21 | [5 Paris Taiko tambours du japon P1150692](https://youtu.be/I0oRczhdgc0) | KATA | Tulga, Nhật Huy, Sarah, Lynn, -- |
 2013-06-21 | [4 Paris Taiko tambours du japon P1150678](https://youtu.be/vu7t2NDkQco) | -- | Tulga, Nhật Huy, --, -- | 
-2013-06-21 | [3e extrait Paris Taiko au Louvre le 21 juin lors de la **Fête de la musique**](https://www.facebook.com/patrick.emery3/videos/vb.100000827281640/538619746175597/) | -- | -- |
+2013-06-21 | [3e extrait Paris Taiko au Louvre le 21 juin lors de la **Fête de la musique**](https://www.facebook.com/patrick.emery3/videos/vb.100000827281640/538619746175597) | -- | -- |
 2013-03    | [PARIS TAIKO ENSEMBLE Marseille **Japan Expo SUD** 2012](https://youtu.be/BP08PRA-fRM) | HASH HASH, KIHON, -- | Tulga, Michel, --, --, --, -- |
 2013-01    | [**Festival des Arts Martiaux** 2013 : répétitions du groupe Paris Taiko Ensemble](https://youtu.be/_QrQgghzliw?t=11s) | KIHON, entretien | Tulga, Nhật Huy, Lynn, --, --, -- |
 2012-11-24 | [**NAMT** 2012 avec Tulga Yesilaltay](https://youtu.be/VaKtrY3DWW4) | --, -- | Tulga, --, --, --, --
@@ -81,8 +89,8 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2012-01?   | [Les rythmes du Taiko à **Japan Expo Sud**](http://dai.ly/xo92am) | KIHON | Michel, Tulga, --, --, --, -- |
 2012       | [Paris Taiko Ensemble](https://youtu.be/AIcF75cgpVs) | -- | Tulga, --, --, --, -- |
 2012       | [Inside **Deus Ex Machina** - Sekigahara](https://youtu.be/awwQEiVIVbE) | KIHON, KATA | Tulga, --, --, --, -- | Oui
-2010-07-08 | [**Surprise Tap Party** - Extrait nº3 / Ruben Sanchez accompagné par Tulga Yesilaltay au Taïko (Paris, 8 juillet 2010)](https://www.facebook.com/habra.art/videos/260709394027914/) | accompagnement | Tulga |
-2010-07-08 | [**Surprise Tap Party** - Extrait nº1 / Ouverture du spectacle par Tulga Yesilaltay au Taïko (Paris, 8 juillet 2010)](https://www.facebook.com/habra.art/videos/261566863942167/) | | Tulga |
+2010-07-08 | [**Surprise Tap Party** - Extrait nº3 / Ruben Sanchez accompagné par Tulga Yesilaltay au Taïko (Paris, 8 juillet 2010)](https://www.facebook.com/habra.art/videos/260709394027914) | accompagnement | Tulga |
+2010-07-08 | [**Surprise Tap Party** - Extrait nº1 / Ouverture du spectacle par Tulga Yesilaltay au Taïko (Paris, 8 juillet 2010)](https://www.facebook.com/habra.art/videos/261566863942167) | | Tulga |
 
 <style>
 	td:nth-child(2) {

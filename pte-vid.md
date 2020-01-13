@@ -3,6 +3,7 @@ Vidéos tierces du PARIS TAÏKO ENSEMBLE
 
 Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 -----------|-------|----------|-----------|---------------------------
+2020-01-11 | [⛩️ **Japan Vannes Matsuri** ⛩️](https://twitter.com/RoadAndTroll/status/1215986234599903234) | KIHON | Tulga, Nhật Huy, Aurélie, Nagisa |
 2019-06-21 | [Taïko **Fête de la Musique 2019**](https://youtu.be/TNs3itMal58) | KIHON (2ème set, final) | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Agnès, Carole, Suzie, Miguel, Aurélie | Oui
 2019-06-21 | [Taiko **Fête de la Musique 2019** / meeting HS](https://youtu.be/7DxCe0BWpNU) | WASHI | Tulga, Tristan, Henri |
 2019-06-21 | [**Fête de la Musique 2019** Taïko / meeting HS](https://youtu.be/3xfinQolnj8) | KYOJAKU (2ème set) | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie, Miguel |
@@ -21,6 +22,8 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2019-05-26 | [Paris Taiko Ensemble **希望祭** 1/6](https://youtu.be/l8z42xNSUJA) | KIHON | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie, Miguel | Oui
 2019-03-23 | [Paris Taiko Ensemble au **34ème Festival des Arts Martiaux**](https://youtu.be/Y75l0cF2vKc) | KIHON | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie | Oui
 2019-03-17 | [Stage GHAAN à Yerres en l’honneur de maître Nocquet avec ambiance Taïko](https://www.facebook.com/AIKIDO.BUDO.officiel/posts/2105926299429778) | KATA suite | Tulga, Sarah, Sylvain, Tristan |
+2019-01-27 | [☆**JAPAN MATSURI VANNES 2019**☆](https://youtu.be/Fj1xTj32AfU?t=2m13s) | KIHON | Tulga, Nhật Huy, Tristan, Carole |
+2019-01-26 | [**Japan Vannes Matsuri** : notre convention coup de cœur en Bretagne !](https://youtu.be/V7doHs5GCsw?t=3m41s) | (pas de son) | Tulga, Nhật Huy, Tristan |
 2018-08-11 | [Merci infiniment à Damien Vandessande (DOP), Loris, Mathias Duchemin (Circus Company) et Paris Taiko Ensemble pour cette session d’enregistrement pour la musique du film **Nogochi**. Encore merci à tous les gens qui nous soutiennent dans cette aventure...Nogochi coming soon !!](https://www.facebook.com/nogochithemovie/videos/2193599444255045?t=14) | HASH HASH | Tulga, Nhật Huy |
 2018-06-21 | [#fetedelamusique2018 #paristaikoensemble](https://www.instagram.com/p/BkV1x4JAZ6_/) | Solo | Nhật Huy |
 2018-06-21 | [Today was **Fete de la Musique**, and Paris was full of music (some good, some less than good 😳) One of the bands was great, the “Paris Taiko Ensemble” dedicated to explore the famous Japanese “Big Drums” played since the VII Century!](https://www.facebook.com/joe.gueron/videos/10217184029533243) | KIHON | Tulga, Nhật Huy, Sarah, Lynn, Sylvain, Natalia, Tristan, Agnès |

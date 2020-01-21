@@ -122,6 +122,6 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 
 <script type="text/javascript">
 	for (var links = document.querySelectorAll("td > a"), i = 0; i < links.length; i++) {
-		links[i].insertBefore(document.createElement("img"), links[i].firstChild).setAttribute("src", links[i].getAttribute("href").match(/https?:\/\/[^/]+/) + "/favicon.ico");
+		links[i].insertBefore(document.createElement("img"), links[i].firstChild).setAttribute("src", links[i].getAttribute("href").replace(/(https?:\/\/)dai\.ly/, "$1dailymotion.com").match(/https?:\/\/[^/]+/) + "/favicon.ico");
 	}
 </script>

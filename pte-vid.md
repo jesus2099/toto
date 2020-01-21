@@ -3,6 +3,8 @@ Vidéos tierces du PARIS TAÏKO ENSEMBLE
 
 Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 -----------|-------|----------|-----------|---------------------------
+2020-01-18 | :new: [Tambours **Kagami Biraki 2020** Paris INJ](https://youtu.be/as-5MmZUjJo) | KATA | Tulga, Tristan, Aurélie, Alexandra |
+2020-01-14 | :new: [Ushered a new era with taiko drums -sumo stage for the battlefield and ended the show with Hov.](https://www.instagram.com/p/B7Wc5_dlrrs/) | KIHON | Nhật Huy, Nagisa |
 2020-01-11 | :new: [Taïko ! **Japon matsuri vannes**](https://www.facebook.com/arnaud.bouckellyoen/videos/10222430102048149) | HASH HASH | Tulga, Nhật Huy, Aurélie, Nagisa |
 2020-01-11 | :new: [⛩️ **Japan Vannes Matsuri** ⛩️](https://twitter.com/RoadAndTroll/status/1215986234599903234) | KIHON | Tulga, Nhật Huy, Aurélie, Nagisa |
 2019-12-14 | :new: [La soirée d'hier s'est terminée en beauté avec le concert de Paris Taiko Ensemble.](https://www.facebook.com/kimonorikiki/posts/2729744753755425) | HASH HASH | Tulga, Nhật Huy, Yuuri, Sarah, Aurélie, Nagisa |
@@ -21,7 +23,7 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2019-05-26 | [Paris Taiko Ensemble **希望祭** 6/6](https://youtu.be/6l-LgYscRIo) | KYŌJAKU | Tulga, Nhật Huy, Sarah, Lynn, Sylvain, Tristan, Carole, Suzie, Miguel | Oui
 2019-05-26 | [Paris Taiko Ensemble **希望祭** 5/6](https://youtu.be/1XasjZM-l-Y) | KIHON long 〜 KIHON | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan 〜 Carole, Suzie, Miguel | Oui
 2019-05-26 | [Paris Taiko Ensemble **希望祭** 4/6](https://youtu.be/YP3o6aGuNVY) | TAIBOKU | Tulga, Nhật Huy, Sarah | Oui
-2019-05-26 | [Paris Taiko Ensemble **希望祭** 3/6](https://youtu.be/LCNfOms5ClA) | KATA long | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan | Oui
+2019-05-26 | [Paris Taiko Ensemble **希望祭** 3/6](https://youtu.be/LCNfOms5ClA) | KATA long sans A/B sandwich, solo, cœur, suite | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan | Oui
 2019-05-26 | [Paris Taiko Ensemble **希望祭** 2/6](https://youtu.be/3ElwqTp_Tb4) | RAKUDA | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan | Oui
 2019-05-26 | [Paris Taiko Ensemble **希望祭** 1/6](https://youtu.be/l8z42xNSUJA) | KIHON | Tulga, Nhật Huy, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie, Miguel | Oui
 2019-03-23 | [Paris Taiko Ensemble au **34ème Festival des Arts Martiaux**](https://youtu.be/Y75l0cF2vKc) | KIHON | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Lễ, Sylvain, Tristan, Carole, Suzie | Oui
@@ -48,6 +50,7 @@ Date       | Vidéo | Morceaux | Musiciens | Qualité top moumoute vidéo
 2017-06-24 | [**Nuit des Arts Martiaux Traditionnels** 2017 - bande-annonce](https://youtu.be/8EiEfo1wo-c) = [**NAMT** 2017 - Bande-annonce](https://vimeo.com/229829840) | KIHON | (pas d’image) |
 2017-03-25 | [PARIS TAIKO ENSEMBLE AU 32EME **FESTIVAL DES ARTS MARTIAUX**](https://youtu.be/VkhMLEvsT4E) | KATA, KYOJAKU | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Crystel, Natalia | Oui
 2017-03-25 | [**Festival des Arts Martiaux** 2017 : Taiko Pencak Silat](https://youtu.be/QTErTuWqZ-0) | KATA | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Crystel, Natalia |
+2017-01-14 | :new: [KAGAMI BIRAKI 2017 - partie 2](https://www.dailymotion.com/video/x5950s5) | KIHON, [KATA](https://www.dailymotion.com/video/x5950s5?start=4860) | Tulga, Nhật Huy, Lynn, Crystel |
 2017       | [Very cool outdoor international festival vibes with the Paris Taiko ensemble !](https://www.facebook.com/InspirelleParis/videos/804750539690946) | (pas de son) | Nhật Huy, Sylvain, Natalia |
 2016-09-18 | [tambours japonais au **musée des arts forains**](https://youtu.be/YlrA_USRvUM) | RAKUDA, KATA long | Nhật Huy, Yuuri, Sarah, Lynn, Crystel, Natalia |
 2016-06-25 | [**NAMT** 2016 - Démonstration d’aikido avec André Cognard](https://youtu.be/AvxLUDBKX3E) | accompagnement | Tulga |

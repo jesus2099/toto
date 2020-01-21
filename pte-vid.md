@@ -4,14 +4,16 @@ Vidéos tierces du PARIS TAÏKO ENSEMBLE
 Légende
 -------
 
+- 👍 Qualité correcte de l’image et du son
 - 🆕 Vidéo ajoutée récemment dans ce tableau
-- 👍 Vidéo de qualité (image et son) TOP MOUMOUTE
 - 💾 Vidéo sauvegardée
 
 Date       | Vidéo | Morceaux | Musiciens | Truc
 -----------|-------|----------|-----------|---------------------------
 2020-01-18 | [Tambours **Kagami Biraki 2020** Paris INJ](https://youtu.be/as-5MmZUjJo) | KATA | Tulga, Tristan, Aurélie, Alexandra |
-2020-01-14 | [Ushered a new era with taiko drums -sumo stage for the battlefield and ended the show with Hov.](https://www.instagram.com/p/B7Wc5_dlrrs/) | KIHON | Nhật Huy, Nagisa | 🆕
+2020-01-14 | [**RHUDE FALL/WINTER 2020**](https://vimeo.com/386041301) | KIHON | Nhật Huy, Nagisa | 👍 🆕 💾
+2020-01-14 | [Ushered a new era with taiko drums -sumo stage for the battlefield and ended the show with Hov.](https://www.instagram.com/p/B7Wc5_dlrrs/) | KIHON | Nhật Huy, Nagisa | 🆕 💾
+2020-01-14 | [**RHUDE** FIRST RUNWAY SHOW Paris Fashion Week debut](https://youtu.be/ApefCRu0fUo) | KIHON | Nhật Huy, Nagisa | 🆕 💾 (audio shift 300 ms)
 2020-01-11 | [Taïko ! **Japon matsuri vannes**](https://www.facebook.com/arnaud.bouckellyoen/videos/10222430102048149) | HASH HASH | Tulga, Nhật Huy, Aurélie, Nagisa | 🆕
 2020-01-11 | [⛩️ **Japan Vannes Matsuri** ⛩️](https://twitter.com/RoadAndTroll/status/1215986234599903234) | KIHON | Tulga, Nhật Huy, Aurélie, Nagisa | 🆕
 2019-12-14 | [La soirée d'hier s'est terminée en beauté avec le concert de Paris Taiko Ensemble.](https://www.facebook.com/kimonorikiki/posts/2729744753755425) | HASH HASH | Tulga, Nhật Huy, Yuuri, Sarah, Aurélie, Nagisa | 🆕

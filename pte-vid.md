@@ -10,6 +10,7 @@ Légende
 
 Date       | Vidéo | Morceaux | Musiciens | Truc
 -----------|-------|----------|-----------|---------------------------
+2020-01-25 | [Mée-sur-Seine, Kagami Biraki](https://www.facebook.com/judoclublgp/videos/2967869943263113) | KIHON | Nhật Huy, Tristan, Gaëlle | 🆕 💾
 2020-01-18 | [Tambours **Kagami Biraki 2020** Paris INJ](https://youtu.be/as-5MmZUjJo) | KATA | Tulga, Tristan, Aurélie, Alexandra |
 2020-01-14 | [**RHUDE FALL/WINTER 2020**](https://vimeo.com/386041301) | KIHON | Nhật Huy, Nagisa | 👍 🆕 💾
 2020-01-14 | [Ushered a new era with taiko drums -sumo stage for the battlefield and ended the show with Hov.](https://www.instagram.com/p/B7Wc5_dlrrs/) | KIHON | Nhật Huy, Nagisa | 🆕 💾
@@ -41,6 +42,7 @@ Date       | Vidéo | Morceaux | Musiciens | Truc
 2019-01-27 | [☆**JAPAN MATSURI VANNES 2019**☆](https://youtu.be/Fj1xTj32AfU?t=2m13s) | KIHON | Tulga, Nhật Huy, Tristan, Carole | 🆕
 2019-01-26 | [**Japan Vannes Matsuri** : notre convention coup de cœur en Bretagne !](https://youtu.be/V7doHs5GCsw?t=3m41s) | (pas de son) | Tulga, Nhật Huy, Tristan | 🆕
 2019-01-26 | [Samedi dernier à **Japan Vannes Matsuri**](https://www.facebook.com/fabrice.godard1/videos/10212647868047661) | KYOJAKU | Tulga, Nhật Huy, Tristan | 🆕
+2019-01-25 | [Mée-sur-Seine, Kagami Biraki](https://www.facebook.com/judoclublgp/videos/2510194102387571) | KATA | Tulga, Nhật Huy, Tristan | 🆕
 2018-08-11 | [Merci infiniment à Damien Vandessande (DOP), Loris, Mathias Duchemin (Circus Company) et Paris Taiko Ensemble pour cette session d’enregistrement pour la musique du film **Nogochi**. Encore merci à tous les gens qui nous soutiennent dans cette aventure...Nogochi coming soon !!](https://www.facebook.com/nogochithemovie/videos/2193599444255045?t=14) | HASH HASH | Tulga, Nhật Huy |
 2018-07-21 | [Les paris ensemble taiko **à Dzaïr Manga Matsuri**](https://www.facebook.com/hbmangakissa/videos/2104161019798893) | KIHON long | Tulga, Nhật Huy, Sarah, Crystel |
 2018-06-21 | [#fetedelamusique2018 #paristaikoensemble](https://www.instagram.com/p/BkV1x4JAZ6_/) | Solo | Nhật Huy | 🆕

@@ -94,10 +94,10 @@ Date       | Vidéo | Morceaux | Musiciens | Truc
 2013-06-21 | [5 Paris Taiko tambours du japon P1150692](https://youtu.be/I0oRczhdgc0) | KATA | Tulga, Nhật Huy, Sarah, Lynn, -- |
 2013-06-21 | [4 Paris Taiko tambours du japon P1150678](https://youtu.be/vu7t2NDkQco) | -- | Tulga, Nhật Huy, --, -- | 
 2013-06-21 | [3e extrait Paris Taiko au Louvre le 21 juin lors de la **Fête de la musique**](https://www.facebook.com/patrick.emery3/videos/vb.100000827281640/538619746175597) | -- | -- |
-2013-03    | [PARIS TAIKO ENSEMBLE Marseille **Japan Expo SUD** 2012](https://youtu.be/BP08PRA-fRM) | HASH HASH, KIHON, -- | Tulga, Michel, --, --, --, -- |
 2013-01    | [**Festival des Arts Martiaux** 2013 : répétitions du groupe Paris Taiko Ensemble](https://youtu.be/_QrQgghzliw?t=11s) | KIHON, entretien | Tulga, Nhật Huy, Lynn, --, --, -- |
-2012-11-24 | [**NAMT** 2012 avec Tulga Yesilaltay](https://youtu.be/VaKtrY3DWW4) | --, -- | Tulga, --, --, --, --
+2012-11-24 | [**NAMT** 2012 avec Tulga Yesilaltay](https://youtu.be/VaKtrY3DWW4) | KAGAMI, -- | Tulga, --, --, --, --
 2012-06-21 | [Paris. **Fête de la musique** 2012](https://youtu.be/AyMGmZHzE4Y) | -- | Tulga, --, --
+2012-03    | [PARIS TAIKO ENSEMBLE Marseille **Japan Expo SUD** 2012](https://youtu.be/BP08PRA-fRM) | HASH HASH, KIHON, -- | Tulga, Michel, --, --, --, -- |
 2012-03    | [**JAPAN EXPO SUD** 2012 Concert de Taiko](https://youtu.be/DjyNOyaY71E?t=12s) | KIHON, HASH HASH, -- | Tulga, Michel, --, --, -- |
 2012-03    | [**Japan Expo Sud** 2012 : Interview "Paris Taiko Ensemble"](https://youtu.be/qRZVVElOeig) | --, entretien | Michel, Tulga, --, -- |
 2012-01?   | [Les rythmes du Taiko à **Japan Expo Sud**](http://dai.ly/xo92am) | KIHON | Michel, Tulga, --, --, --, -- |

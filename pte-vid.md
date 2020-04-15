@@ -70,7 +70,7 @@ Date       | Vidéo | Morceaux | Musiciens | Truc
 2016       | [Wadaïko. paros taiko ensemble www.paris-taïko.com](https://www.facebook.com/RosyPhotographe/videos/1223452994372838) | ATA | Lynn, Crystel, Natalia, -- | 🆕
 2015-10-17 | [Paris Taiko Ensemble (première partie) au **Festival des Arts Martiaux Nord‐Europe** 2015 (synchro a/v)](https://youtu.be/TlKmDXJo64c) | ATA | Tulga, Nhật Huy, Yuuri, Lynn, Crystel | 👍
 2015-05-16 | [Shorinji Kempo à la 4e **Nuit des arts martiaux japonais**](http://dai.ly/x2r47lj) | accompagnement | -- |
-2015-05-16 | [Paris Taïko Ensemble à la 4e **Nuit des arts martiaux japonais**](https://youtu.be/Nl3115Thi2U) = [Paris Taïko Ensemble à la 4e Nuit des arts martiaux japonais](http://dai.ly/x2qrxbq) | KIHON | Tulga, Nhật Huy, Sarah, Lynn, Crystel |
+2015-05-16 | [Paris Taïko Ensemble à la 4e **Nuit des arts martiaux japonais**](https://youtu.be/Nl3115Thi2U) = [Paris Taïko Ensemble à la 4e Nuit des arts martiaux japonais](http://dai.ly/x2qrxbq) | KIHON long | Tulga, Nhật Huy, Sarah, Lynn, Crystel |
 2015-03-11 | [**NAMT** 2015 avec Simon Pujol GOSHINKAÏ JUJUTSU](https://youtu.be/cmE06gEMQQo) | accompagnement | Tulga, Nhật Huy |
 2015-03-11 | [**NAMT** 2015 avec Pascal Guillemin AÏKIDO](https://youtu.be/K2m7yCm5kFw) | accompagnement | Tulga, Nhật Huy |
 2015-03-11 | [Démonstration Mugai Ryu](https://youtu.be/yZUlOGbd0vY?t=1m35s) | accompagnement | Tulga |

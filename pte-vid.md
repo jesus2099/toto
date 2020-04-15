@@ -54,7 +54,7 @@ Date       | Vidéo | Morceaux | Musiciens | Truc
 2018-03-24 | [LE TAIKO AU 33EME **FESTIVAL DES ARTS MARTIAUX**](https://youtu.be/mDyY1UdnxM8) | KIHON | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Sylvain, Natalia, Tristan | 👍
 2018-03-12 | [Paris Taiko Ensemble & **Bein Sport**](https://www.facebook.com/ParisTaikoEnsemble/videos/1879932455411579?t=95) | KIHON | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Sylvain, Natalia, Tristan | 👍
 2017-11-18 | [Opening at the **Artclub Gallery** November 18, 2017](https://www.facebook.com/183092131765339/videos/1702622349812302?t=15) | KATA, KIHON | Tulga, Natalia, Tristan |
-2017-09-17 | [Paris Taiko Ensemble - KIHON (基本)](https://youtu.be/q3MToI0CVVw) | KIHON | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Sylvain, Natalia | 👍
+2017-09-17 | [Paris Taiko Ensemble au Musée des Arts Forains](https://youtu.be/q3MToI0CVVw) | KIHON long | Tulga, Nhật Huy, Yuuri, Sarah, Lynn, Sylvain, Natalia | 👍
 2017-09-10 | [<del>Paris Taïko Ensemble et les pirates de **La Parisienne** 2017</del>](https://youtu.be/tBU0rkzBRtQ) | accompagnement | Tulga, Nhật Huy, Yuuri, Lynn, Sylvain, Natalia, Kazzu, Tristan, Agnès |
 2017-09-10 | [<del>Paris Taïko Ensemble à **La Parisienne** 2017</del>](https://youtu.be/RZmPiEBRyyM) | KIHON | Tulga, Nhật Huy, Yuuri, Sylvain, Natalia, Kazzu, Tristan |
 2017-09-10 | [<del>Paris Taïko Ensemble à **La Parisienne** 2017</del>](https://youtu.be/9ZnclhguPUY) | KATA | Tulga, Nhật Huy, Yuuri, Sylvain, Natalia, Kazzu, Tristan |

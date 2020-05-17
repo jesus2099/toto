@@ -17,6 +17,7 @@ Date       | Vidéo | Morceaux | Musiciens | Truc
 2020-01-14 | [**RHUDE** FIRST RUNWAY SHOW Paris Fashion Week debut](https://youtu.be/ApefCRu0fUo) | KIHON | Nhật Huy, Nagisa | 🆕 💾 (audio shift 300 ms)
 2020-01-11 | [Taïko ! **Japon matsuri vannes**](https://www.facebook.com/arnaud.bouckellyoen/videos/10222430102048149) | HASH HASH | Tulga, Nhật Huy, Aurélie, Nagisa | 🆕
 2020-01-11 | [⛩️ **Japan Vannes Matsuri** ⛩️](https://twitter.com/RoadAndTroll/status/1215986234599903234) | KIHON | Tulga, Nhật Huy, Aurélie, Nagisa | 🆕
+2019-12-14 | [Instant’Japan 2019 ! Avec @paristaikoensemble et du #kendo à @elephantpaname](https://www.instagram.com/p/B8NQLVlHLmQ/) | (pas de son) | Tulga, Nhật Huy, Yuuri, Sarah, Aurélie, Nagisa |
 2019-12-14 | [La soirée d'hier s'est terminée en beauté avec le concert de Paris Taiko Ensemble.](https://www.facebook.com/kimonorikiki/posts/2729744753755425) | HASH HASH | Tulga, Nhật Huy, Yuuri, Sarah, Aurélie, Nagisa | 🆕
 2019-09-07 | [**Judo Club La Grande-Paroisse** Paris TAÏKO Ensemble](https://www.facebook.com/judoclublgp/videos/503056637094429) | KATA cœur et suite | Tulga, Nhật Huy, Tristan, Miguel, Aurélie | 🆕
 2019-09-07 | [Ouverture de l'inauguration par la troupe Paris TaÏko ensemble](https://www.facebook.com/531198997058015/videos/561750084568576) | KIHON long | Tulga, Nhật Huy, Tristan, Miguel, Aurélie | 🆕

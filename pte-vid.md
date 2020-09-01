@@ -10,6 +10,8 @@ Légende
 
 Date       | Vidéo | Morceaux | Musiciens | Truc
 -----------|-------|----------|-----------|---------------------------
+2020-08-15 | [《 Saison J-Musique à la maison - Taiko 》](https://www.facebook.com/AmbJaponFR/videos/666405393973200) (enreg. juin) | KATA cœur et suite, RAKUDA, OMOTE, TAIBOKU, KYŌJAKU, MC | Tulga, Nhật Huy, Miguel, Aurélie, Nagisa | 👍 💾 🆕
+2020-06-20 | [Saison J-musique à la maison - Paris Taiko Ensemble](https://www.facebook.com/AmbJaponFR/videos/2810519799058739) (enreg. juin) | KIHON, NAGAI (KIHON long, KATA long), KATANA, ARASHI, TEIKIATSU, KŌJŌ (HASH HASH), MC | Tulga, Nhật Huy, Miguel, Aurélie, Nagisa | 👍 💾 🆕
 2020-01-25 | [Mée-sur-Seine, Kagami Biraki](https://www.facebook.com/judoclublgp/videos/2967869943263113) | KIHON | Nhật Huy, Tristan, Gaëlle | 💾
 2020-01-18 | [Tambours **Kagami Biraki 2020** Paris INJ](https://youtu.be/as-5MmZUjJo) | KATA | Tulga, Tristan, Aurélie, Alexandra |
 2020-01-14 | [**RHUDE FALL/WINTER 2020**](https://vimeo.com/386041301) | KIHON | Nhật Huy, Nagisa | 👍 💾
@@ -17,7 +19,7 @@ Date       | Vidéo | Morceaux | Musiciens | Truc
 2020-01-14 | [**RHUDE** FIRST RUNWAY SHOW Paris Fashion Week debut](https://youtu.be/ApefCRu0fUo) | KIHON | Nhật Huy, Nagisa | 💾 (audio shift 300 ms)
 2020-01-11 | [Taïko ! **Japon matsuri vannes**](https://www.facebook.com/arnaud.bouckellyoen/videos/10222430102048149) | HASH HASH | Tulga, Nhật Huy, Aurélie, Nagisa |
 2020-01-11 | [⛩️ **Japan Vannes Matsuri** ⛩️](https://twitter.com/RoadAndTroll/status/1215986234599903234) | KIHON | Tulga, Nhật Huy, Aurélie, Nagisa |
-2019-12-14 | [Instant’Japan 2019 ! Avec @paristaikoensemble et du #kendo à @elephantpaname](https://www.instagram.com/p/B8NQLVlHLmQ/) | (pas de son) | Tulga, Nhật Huy, Yuuri, Sarah, Aurélie, Nagisa | 🆕
+2019-12-14 | [Instant’Japan 2019 ! Avec @paristaikoensemble et du #kendo à @elephantpaname](https://www.instagram.com/p/B8NQLVlHLmQ/) | (pas de son) | Tulga, Nhật Huy, Yuuri, Sarah, Aurélie, Nagisa |
 2019-12-14 | [La soirée d'hier s'est terminée en beauté avec le concert de Paris Taiko Ensemble.](https://www.facebook.com/kimonorikiki/posts/2729744753755425) | HASH HASH | Tulga, Nhật Huy, Yuuri, Sarah, Aurélie, Nagisa |
 2019-09-07 | [**Judo Club La Grande-Paroisse** Paris TAÏKO Ensemble](https://www.facebook.com/judoclublgp/videos/503056637094429) | KATA cœur et suite | Tulga, Nhật Huy, Tristan, Miguel, Aurélie |
 2019-09-07 | [Ouverture de l'inauguration par la troupe Paris TaÏko ensemble](https://www.facebook.com/531198997058015/videos/561750084568576) | KIHON long | Tulga, Nhật Huy, Tristan, Miguel, Aurélie |

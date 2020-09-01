@@ -10,8 +10,8 @@ Légende
 
 Date       | Vidéo | Morceaux | Musiciens | Truc
 -----------|-------|----------|-----------|---------------------------
-2020-08-15 | [《 Saison J-Musique à la maison - Taiko 》](https://www.facebook.com/AmbJaponFR/videos/666405393973200) (enreg. juin) | KATA cœur et suite, RAKUDA, OMOTE, TAIBOKU, KYŌJAKU, MC | Tulga, Nhật Huy, Miguel, Aurélie, Nagisa | 👍 💾 🆕
-2020-06-20 | [Saison J-musique à la maison - Paris Taiko Ensemble](https://www.facebook.com/AmbJaponFR/videos/2810519799058739) (enreg. juin) | KIHON, NAGAI (KIHON long, KATA long), KATANA, ARASHI, TEIKIATSU, KŌJŌ (HASH HASH), MC | Tulga, Nhật Huy, Miguel, Aurélie, Nagisa | 👍 💾 🆕
+2020-08-15 | [《 Saison J-Musique à la maison - Taiko 》](https://www.facebook.com/AmbJaponFR/videos/666405393973200) (enreg. juin) | KATA cœur et suite, RAKUDA, OMOTE, TAIBOKU, KYŌJAKU | Tulga, Nhật Huy, Miguel, Aurélie, Nagisa | 👍 💾
+2020-06-20 | [Saison J-musique à la maison - Paris Taiko Ensemble](https://www.facebook.com/AmbJaponFR/videos/2810519799058739) (enreg. juin) | KIHON, NAGAI (KIHON long, KATA long), KATANA, ARASHI, TEIKIATSU, KŌJŌ (HASH HASH) | Tulga, Nhật Huy, Miguel, Aurélie, Nagisa | 👍 💾
 2020-01-25 | [Mée-sur-Seine, Kagami Biraki](https://www.facebook.com/judoclublgp/videos/2967869943263113) | KIHON | Nhật Huy, Tristan, Gaëlle | 💾
 2020-01-18 | [Tambours **Kagami Biraki 2020** Paris INJ](https://youtu.be/as-5MmZUjJo) | KATA | Tulga, Tristan, Aurélie, Alexandra |
 2020-01-14 | [**RHUDE FALL/WINTER 2020**](https://vimeo.com/386041301) | KIHON | Nhật Huy, Nagisa | 👍 💾

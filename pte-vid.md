@@ -4,7 +4,7 @@ Vidéos tierces du PARIS TAÏKO ENSEMBLE
 Légende
 -------
 
-- 👍 Qualité correcte de l’image et du son
+- 👍 Qualité correcte de l’image et du son (<a title="Révéler les vidéos bof" onclick="document.body.classList.add('tout-voir')" style="text-decoration: underline; cursor: pointer;">tout voir</a>)
 - 🆕 Vidéo ajoutée récemment dans ce tableau
 - 💾 Vidéo sauvegardée
 
@@ -133,10 +133,19 @@ Date       | Vidéo | Morceaux | Musiciens | Truc
 		max-height: 16px;
 		vertical-align: middle;
 	}
+	/* Masquer les vidéos bof */
+	body:not(.tout-voir) tr.bof {
+		display: none;
+	}
 </style>
 
 <script type="text/javascript">
+	// Afficher des icônes
 	for (var links = document.querySelectorAll("td > a"), i = 0; i < links.length; i++) {
 		links[i].insertBefore(document.createElement("img"), links[i].firstChild).setAttribute("src", links[i].getAttribute("href").replace(/(https?:\/\/)dai\.ly/, "$1dailymotion.com").match(/https?:\/\/[^/]+/) + "/favicon.ico");
+	}
+	// Masquer les vidéos bof
+	for (let i = 0, c = document.querySelectorAll("tbody > tr > td:last-child"); i < c.length; i++) if (!c[i].textContent.match(/👍/)) {
+		c[i].closest("tr").classList.add("bof");
 	}
 </script>
